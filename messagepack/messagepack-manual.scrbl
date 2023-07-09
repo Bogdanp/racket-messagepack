@@ -4,7 +4,7 @@
                      racket/contract
                      messagepack))
 
-@title{@tt{MessagePack}}
+@title{MessagePack}
 @author[(author+email "Bogdan Popa" "bogdan@defn.io")]
 @defmodule[messagepack]
 
