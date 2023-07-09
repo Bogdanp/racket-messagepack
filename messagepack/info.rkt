@@ -7,4 +7,4 @@
 (define build-deps '("racket-doc"
                      "scribble-lib"))
 (define implies '("messagepack-lib"))
-(define scribblings '(("messagepack-manual.scrbl")))
+(define scribblings '(("messagepack-manual.scrbl" () (parsing-library))))
