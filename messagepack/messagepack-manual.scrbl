@@ -1,7 +1,7 @@
 #lang scribble/manual
 
 @(require (for-label racket/base
-                     racket/contract
+                     racket/contract/base
                      messagepack))
 
 @title{MessagePack}
